@@ -1,0 +1,22 @@
+body{
+	background-color:#98367f;
+	
+}
+
+h1{
+	color:white;
+	
+}
+
+span{
+	color: blue;
+	padding-left:80px;
+	padding-right:80px;
+}
+
+img{
+	height: 200px;
+	width: 250px;
+	border-color: aliceblue;
+	border-style: double;
+}
